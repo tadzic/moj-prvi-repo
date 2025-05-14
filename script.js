@@ -1,1 +1,1 @@
-console.log("Bok");
+console.log("Prvi pobjedda");
